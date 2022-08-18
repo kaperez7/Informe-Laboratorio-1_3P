@@ -12,17 +12,20 @@ Analizar el comportamiento que tienen los capacitores e inductores dentro de un 
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+![image](https://user-images.githubusercontent.com/105679480/185389514-5f1b6cf4-2761-496f-bc7e-bd57cca61306.png)
+![image](https://user-images.githubusercontent.com/105679480/185389609-b5085290-5362-4a14-8c3e-0970dd2de633.png)
+![image](https://user-images.githubusercontent.com/105679480/185389668-fcabb24d-9e4b-4689-9004-8760b1e3fbf5.png)
+![image](https://user-images.githubusercontent.com/105679480/185389719-195df32e-fb31-4114-9b65-03ba79c5f86d.png)
+![image](https://user-images.githubusercontent.com/105679480/185389763-aeb2fb69-5e0b-4ae1-a46e-f49c2ef9bfe8.png)
+![image](https://user-images.githubusercontent.com/105679480/185389824-8f40b600-7ef6-45ec-b02c-c63f5287c37d.png)
+![image](https://user-images.githubusercontent.com/105679480/185389857-25fa0122-af32-47f2-a808-17e1f3657c94.png)
+![image](https://user-images.githubusercontent.com/105679480/185389891-b623d4eb-aeb0-4d55-9542-ad2d0d45843c.png)
+![image](https://user-images.githubusercontent.com/105679480/185389935-ae77547f-f414-4167-9c24-7e82f1baa8ba.png)
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-El contenido debe ser desarrollado.
+![image](https://user-images.githubusercontent.com/105679480/185390122-793f551c-8864-49df-821e-4af45b1e10b8.png)
+![image](https://user-images.githubusercontent.com/105679480/185390202-276c0f00-e2b0-42ea-b8aa-9c53c45f1620.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
