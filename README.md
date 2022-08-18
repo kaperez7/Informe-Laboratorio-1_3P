@@ -3,23 +3,10 @@
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
-
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+* Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+* Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+* Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+* Familiarizarse con el uso de instrumentos de medida.
 
 2. MARCO TEÓRICO 
 
@@ -37,22 +24,185 @@ El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+![image](https://user-images.githubusercontent.com/105570939/185281703-4af9ac9d-ff19-4404-b92e-199b9620ee72.png)
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+![image](https://user-images.githubusercontent.com/105570939/185290824-c449a991-19d5-4c3b-baf2-0440d21ea7b9.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+**a) Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+**0 Hz**
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+![image](https://user-images.githubusercontent.com/105570939/185290937-61bfaa4f-add8-4bee-a021-0d28270fdb62.png)
 
+**V=6.18 V**
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185290975-bf09ae6f-21c0-44c4-89a9-55fa0cf634a7.png)
+
+**V=9.91 V**
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185291049-a31a23bd-92ad-4aad-8fe2-20fde2914ffb.png)
+
+**V=8.47 V**
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185291083-eda32d26-37b6-4a31-88a6-d15287175717.png)
+
+**V=6.23 V**
+
+**500 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185291167-0d64a04d-f212-435a-b87b-8ce2d25ed4cd.png)
+
+**V=1.57 V**
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185291204-a64a0e66-3788-4d8a-b3ba-5d666359a3dd.png)
+
+**V=0.78 V**
+
+**b) Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 .**
+
+**0 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185292279-42af269d-eb8e-4904-8cb8-36f10785b945.png)
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185292320-e82ea238-f26e-4a09-a82d-b71f0e85d594.png)
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185292378-e0a4e22b-b892-4675-bd9a-461378e06e4d.png)
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185292405-db690d1e-a532-4a1a-8585-173ded8e3319.png)
+
+**500 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185292451-d33de0df-73d1-400a-9b25-5fcf6332f584.png)
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185292478-aaec3ef8-2725-4c99-bc97-4ed7af343e78.png)
+
+**C) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 .**
+
+**0 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185295135-91adfe91-18bb-4a72-baf1-dfcc62850d7c.png)
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185295268-52c5f5f7-a965-409e-a689-9708c3ed5ee4.png)
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185295294-e08a95ed-f26b-49e4-972f-b0659efb60e2.png)
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185295468-2a398c62-73e6-4934-9ce1-37231eea7667.png)
+
+**500 HZ**
+
+![image](https://user-images.githubusercontent.com/105570939/185295381-05ae8a50-185c-49e4-aa39-062ceadbb257.png)
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185295417-3f7ff9a8-9790-41c6-a61c-2ab5c78782e4.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185295627-e0ae9d0a-ddb5-47a3-b99f-b2c6b99520f0.png)
+
+**2.- Construya en el protoboard el circuito mostrado en la Figura 2.**
+
+![image](https://user-images.githubusercontent.com/105570939/185295751-4c16bb14-c50d-4651-ac13-0e7ed86deab3.png)
+
+**a) Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
+
+**0 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296001-faa79c25-944e-411d-a532-ce0b432d930b.png)
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296029-721e3610-ff79-42f3-ad3e-4a138a2fa38d.png)
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296058-617ce53a-5358-4c31-a00a-3b8e54521561.png)
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296085-bf5d0f07-9e0b-4af4-9220-212755cf5c2a.png)
+
+**500 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296119-b39b9f29-fb38-4129-a875-3e9c0d666175.png)
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296150-2b32125c-06fb-43ad-948d-6989826bb409.png)
+
+**b) Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 .**
+
+**0 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296510-baac95a4-83d6-4b2c-9454-dd1d50c3412d.png)
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296540-d45351c2-64b6-4551-8cc6-13f27d987330.png)
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296573-a3a9a934-436c-4a4d-81ce-e77bf605b0ae.png)
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296591-bcf35bff-d360-4ceb-8a20-bac0f1b04098.png)
+
+**500 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296624-ff6a1f27-3bb6-4ea1-a343-6901d413c95b.png)
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296665-4be3e3a8-acfb-45da-92a5-eca1ff78a5ec.png)
+
+**c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 .**
+
+**0 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296885-995460fc-cfbf-4854-aa30-1c5b66161b47.png)
+
+**10 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296922-175a1400-ad3c-48ff-b4b4-410592eb9b13.png)
+
+**50 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296955-1f874577-78bc-4753-9b61-e106f9e3052d.png)
+
+**100 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185296980-dd2aa10c-a165-4a46-a624-06fe6f17206d.png)
+
+**500 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185297000-f325317b-d1b6-4377-961d-f09fc934f35e.png)
+
+**1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105570939/185297028-b95f4ce3-fccb-46b9-86e4-bd62da1e36af.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
