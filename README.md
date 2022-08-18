@@ -208,6 +208,16 @@ El contenido debe ser desarrollado.
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+**Figura 1**
+
+![image](https://user-images.githubusercontent.com/105570939/185299599-35bc492a-40c7-43fe-8598-c960c2523f18.png)
+
+**Figura 2**
+
+![image](https://user-images.githubusercontent.com/105570939/185299656-96eb600d-32e7-47de-a932-ecf6028b8cbd.png)
+
+los multimetros no dan el voltaje pico es por esto que los valores son distintos. Los multimetros dan el valor eficaz es decir Vrms, mientras que un osiloscopio da Vp que es el valor pico.
+
 **1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
 Por un lado la bobina impide el paso de la corriente hasta que logra crear su propio campo magnetico permitiendo que los electrones fluyan sin resistencia alguna, lo que nos dice que solo en un principio presenta una oposicion al paso de la corriente. Por otro lado el capacitor actua de forma contraria, ya que permite el paso de la corriente hasta que las placas quedan completamente cargadas positiva y negativamente como corresponda, al momento que el capacitor queda completamente cargado este actua como un circuito abierto.
