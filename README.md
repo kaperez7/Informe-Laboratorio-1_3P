@@ -258,6 +258,10 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 7. BIBLIOGRAFÍA
 
+colaboradores de Wikipedia. (2022b, agosto 7). Inductor. Wikipedia, la enciclopedia libre. Recuperado 15 de agosto de 2022, de https://es.wikipedia.org/wiki/Inductor
+
+Mecafenix, I. (2022, 14 junio). ¿Qué es un capacitor? y sus tipos. Ingeniería Mecafenix. Recuperado 16 de agosto de 2022, de https://www.ingmecafenix.com/electronica/el-capacitor/
+
 
 RUBRICA
 
