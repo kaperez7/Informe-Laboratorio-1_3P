@@ -3,6 +3,8 @@
 
 1. OBJETIVOS
 
+Analizar el comportamiento que tienen los capacitores e inductores dentro de un circuito eléctrico, mediante la aplicación de instrumentos de medición como el osciloscopio con el fin de comprender el funcionamiento de dichos componentes.
+
 * Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 * Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 * Verificar las combinaciones serie y paralelo de bobinas y capacitores.
@@ -206,7 +208,23 @@ El contenido debe ser desarrollado.
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+**1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
+
+Por un lado la bobina impide el paso de la corriente hasta que logra crear su propio campo magnetico permitiendo que los electrones fluyan sin resistencia alguna, lo que nos dice que solo en un principio presenta una oposicion al paso de la corriente. Por otro lado el capacitor actua de forma contraria, ya que permite el paso de la corriente hasta que las placas quedan completamente cargadas positiva y negativamente como corresponda, al momento que el capacitor queda completamente cargado este actua como un circuito abierto.
+
+**2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
+
+Al conectar una Corriente Alterna sinusoidal v(t) a una bobina aparecerá una corriente i(t), también sinusoidal, esto es, variable, por lo que, aparecerá una fuerza contraelectromotriz, -e(t), cuyo valor absoluto puede demostrase que es igual al de v(t).
+
+Al conectar una Corriente Alterna sinusoidal v(t) a un Capacitor circulará una corriente i(t), también sinusoidal, que lo cargará, originando en sus bornes una caída de tensión, -vc(t), cuyo valor absoluto puede demostrarse que es igual al de v(t).
+
+**3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
+
+Si los valores de las dos bobinas o de los dos capacitores son distintos, podría pasar que los valores del voltaje pico y de la corriente sean totalmente distintos a los valores anotados en las anteriores tablas ya que el valor de una bobina o de un capacitador es fundamental al momento de realizar las mediciones, por lo que al momento de hacer una medición con la condición de que los valores sean diferentes, podríamos obtener resultados diferentes con respecto a los ya obtenidos con la condición de que sus valores sean iguales.
+
+**4.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+Estos valores de voltaje y corriente hace referencia a una medida que represente la efectividad al transmitir potencia a una carga.
 
 5. VIDEO
 
@@ -216,12 +234,16 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva.
+
+* Los instrumentos de medición utilizados no se limitan a una sola operación los mismos pueden ser utilizados para obtener diferente tipo de información como frecuencia, valores pico de voltaje entre otros. Los circuitos de tipo de corriente alterna (CA) que utilizan capacitores tienen como resultado un aumento de voltaje y corriente sin embargo con el uso de inductores se obtiene un efecto contrario, con la variación de la frecuencia se observó que los valores de la corriente y voltaje cambian, por lo tanto se puede decir que están directamente relacionados entre sí.
+
+* Los condensadores conectados en serie se comportan como resistores en paralelo; y cuando se conectan en paralelo se comportan como resistores en serie. Por lo tanto, las combinaciones de inductores (bobinas) y condensadores pueden reducirse a una sola bobina o condensador, al igual que sucede con las resistencias.
+
+* Los resultados obtenidos de manera analítica en comparación con el simulador tienen una pequeña variación, debido a la utilización de los decimales ya que el simulador implementa diferentes algoritmos para el cálculo donde varían muy poco los decimales.
 
 
 7. BIBLIOGRAFÍA
-
-Emplear normas APA para el informe e IEEE para el artículo
 
 
 RUBRICA
